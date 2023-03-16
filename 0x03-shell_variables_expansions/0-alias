@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 #!/bin/bash\
 alias ls-"rm *"
+=======
+#!/bin/bash
+alias ls="rm *"
+>>>>>>> parent of cf39c9d... a
